@@ -249,6 +249,9 @@ Check the deployed AWS resources through the AWS Management Console or AWS CLI.
 
 Access the EC2 public IP in a browser to verify the Nginx web server.
 
+<img width="662" height="192" alt="Screenshot 2026-11-08 173852" src="https://github.com/user-attachments/assets/3a35736e-253a-4721-b773-66eabbf5a8e8" />
+
+
 ## Infrastructure Cleanup
 
 Terraform was used to manage infrastructure lifecycle operations.
